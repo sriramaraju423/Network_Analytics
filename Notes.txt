@@ -1,0 +1,17 @@
+KNN - Supervised technique - Classification model
+1 Nearest - New data point entered, it looks for 1st nearest neighbour and sit into that category
+2 Nearest neighbour - New data point looks for 2 nearest, if there is clash it looks for least distance and sits into that category
+3 NN - New data point looks for three nearest neighbour what's majority sits into that class.
+
+Likewise
+KNN - Likewise for KNN - Majority points sits into that class. Sometimes this creates problem based on no of datapoints hence choosing ideal value of K is required. This can be done by checking accuracy as a measure.
+
+
+
+
+
+
+
+
+TODO:
+How adjacency matrix is build? - Just check node connection to other nodes if yes it's value in matrix would be 1
